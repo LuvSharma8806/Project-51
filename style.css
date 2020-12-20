@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+}
+
+.html{
+    padding: 0px;
+    margin: 0px;
+}
+*{
+    color: chartreuse;
+}
+
+.link{
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+
+.item {
+    
+    border-radius: 20px;
+    background-color: white;        
+}
